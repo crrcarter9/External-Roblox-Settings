@@ -1,8 +1,7 @@
 {
 "light": {
-"open_distance": 15
-"open_time": 2
-}
+"open_distance": 15,
+"open_time": 2}
 
 "heavy": {
 "open_distance": 15,
