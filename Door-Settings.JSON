@@ -1,10 +1,10 @@
 {
 "light": {
-"open_distance": 15,
+"detection_distance": 15,
 "open_time": 2},
 
 "heavy": {
-"open_distance": 15,
+"detection_distance": 15,
 "open_time": 5},
 
 "xl": {
