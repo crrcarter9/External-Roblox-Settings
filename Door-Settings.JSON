@@ -1,11 +1,11 @@
 {
 "light": {
 "open_distance": 15,
-"open_time": 2}
+"open_time": 2},
 
 "heavy": {
 "open_distance": 15,
-"open_time": 5}
+"open_time": 5},
 
 "xl": {
 "open_speed": 0.2,
