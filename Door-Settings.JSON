@@ -5,7 +5,7 @@
 
 "heavy": {
 "detection_distance": 15,
-"open_time": 5},
+"open_time": 1},
 
 "xl": {
 "open_speed": 1,
